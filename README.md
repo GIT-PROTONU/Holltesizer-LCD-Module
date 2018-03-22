@@ -8,7 +8,7 @@ First upload the supplied Arduino Code to your Arduino Uno, Connect the 16 chara
 
 <img src="https://holltesizer.protonu.com/Arduino%20LCD%20Wiring.png" alt="Arduino LCD Wiring" width="auto" height="400">
 
-Now upload the Arduino code. Now download the exported Processing program (windows and mac), the source code is also supplied so you could edit it.
+Now upload the Arduino code. Now download the exported Processing program (windows and mac), the source code is also supplied so you could edit it. Make sure you include the OSCP5 and ControlP5 library in Processing if you want to compile your own version.
 
 The fields circled in red are the currently selected Track and Scene, this data will be sent to the LCD screen.
 <img src="https://holltesizer.protonu.com/Ableton%20Screenshot.png" alt="Ableton Live 10 Screenshot" width="auto" height="400">
