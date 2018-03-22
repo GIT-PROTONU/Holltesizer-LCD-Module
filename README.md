@@ -15,4 +15,6 @@ The fields circled in red are the currently selected Track and Scene, this data 
 <img src="https://holltesizer.protonu.com/Holltesizer%20LCD%20Module.jpeg" alt="Ableton Live 10 Screenshot" width="auto" height="400">
 
 # Extra
-The Holltesizer is a custom Ableton Live 10 controller made with two APC's from Akai, the LCD module described here and a keyboard. More info can be found here: https://holltesizer.protonu.com
+The Holltesizer is a custom Ableton Live 10 controller made with two APC's from Akai, the LCD module described here and a keyboard. More info can be found here: https://holltesizer.protonu.com. Holltesizer is a collaboration between Hollt, an upcoming DJ and Producer from the Netherlands and PROTONU a technical research and development company.
+
+The Processing code was modified by Ibrahim Elfaramawy from an example of the OSCP5 libary.
