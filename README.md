@@ -6,3 +6,5 @@ Works by having a Processing program talk to Ableton 10 using the OSC message pr
 ## How to Use
 First upload the supplied Arduino Code to your Arduino Uno, Connect the 16 character LCD as shown in the diagram below. The code could be easely modefied to use different screens or devices, as is just intereperts the serial data coming from the computer.
 
+![alt text](http://1.bp.blogspot.com/-aSr3MWzELKc/VHCnHQhRqhI/AAAAAAAASBY/Kf1OPVzoCxM/s1600/lcd%2Barduino_without_potentiometer1.jpg "Logo Arduino Wiring Diagram")
+
