@@ -6,15 +6,15 @@ Works by having a Processing program talk to Ableton 10 using the OSC message pr
 ## How to Use
 First upload the supplied Arduino Code to your Arduino Uno, Connect the 16 character LCD as shown in the diagram below. The code could be easely modefied to use different screens or devices, as is just intereperts the serial data coming from the computer.
 
-<img src="https://holltesizer.protonu.com/Arduino%20LCD%20Wiring.jpg" alt="Arduino LCD Wiring" width="auto" height="400">
+<img src="https://protonu.com/img/lcd_wiring.png" alt="Arduino LCD Wiring" width="auto" height="400">
 
 Now upload the Arduino code. Now <a href="https://github.com/GIT-PROTONU/Holltesizer-LCD-Module/tree/master/Processing_Holltesizer_LCD_Module">download</a>  the exported Processing program (windows and mac), the source code is also supplied so you could edit it. Make sure you include the OSCP5 and ControlP5 library in Processing if you want to compile your own version.
 
-The fields circled in red are the currently selected Track and Scene, this data will be sent to the LCD screen.
-<img src="https://holltesizer.protonu.com/Ableton%20Screenshot.png" alt="Ableton Live 10 Screenshot" width="auto" height="400">
-<img src="https://holltesizer.protonu.com/Holltesizer%20LCD%20Module.jpeg" alt="Ableton Live 10 Screenshot" width="auto" height="400">
-
+The fields highlighted in red are the currently selected Track and Scene, this data will be sent to the LCD screen.
+<img src="https://protonu.com/img/screenshot_ableton.png" alt="Ableton Live 10 Screenshot" width="auto" height="400">
+<img src="https://protonu.com/img/lcd_photo.jpg" alt="LCD Screen with selected Track and Scene" width="auto" height="400">
+<hr>
 # Extra
-The Holltesizer is a custom Ableton Live 10 controller made with two APC's from Akai, the LCD module described here and a keyboard. More info can be found here: https://holltesizer.protonu.com. Holltesizer is a collaboration between Hollt, an upcoming DJ and Producer from the Netherlands and PROTONU a technical research and development company.
+The Holltesizer is a custom Ableton Live 10 controller made with two APC's from Akai, the LCD module described here and a keyboard. Holltesizer is a collaboration between Hollt, an upcoming DJ and Producer from the Netherlands and PROTONU a technical research and development company.
 
 The Processing code was modified by Ibrahim Elfaramawy from an example of the OSCP5 libary.
