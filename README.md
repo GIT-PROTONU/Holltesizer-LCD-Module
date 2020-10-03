@@ -11,8 +11,8 @@ First upload the supplied Arduino Code to your Arduino Uno, Connect the 16 chara
 Now upload the Arduino code. Now <a href="https://github.com/GIT-PROTONU/Holltesizer-LCD-Module/tree/master/Processing_Holltesizer_LCD_Module">download</a>  the exported Processing program (windows and mac), the source code is also supplied so you could edit it. Make sure you include the OSCP5 and ControlP5 library in Processing if you want to compile your own version.
 
 The fields highlighted in red are the currently selected Track and Scene, this data will be sent to the LCD screen.
-<img src="https://protonu.com/img/screenshot_ableton.png" alt="Ableton Live 10 Screenshot" width="auto" height="400">
-<img src="https://protonu.com/img/lcd_photo.jpg" alt="LCD Screen with selected Track and Scene" width="auto" height="400">
+<img src="https://protonu.com/_img/screenshot_ableton.png" alt="Ableton Live 10 Screenshot" width="auto" height="400">
+<img src="https://protonu.com/_img/lcd_photo.jpg" alt="LCD Screen with selected Track and Scene" width="auto" height="400">
 <hr>
 
 # Extra
